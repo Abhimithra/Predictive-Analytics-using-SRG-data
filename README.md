@@ -6,6 +6,8 @@ Lets dive into it.
 Project Descriptions: 
 The data used for this project was real time survey data provided by SRG(Sterling Rice Group). SRG basically is a media company which is a brand consultancy and advertising agency that works across the entire lifecycle of a brand.  This survey included physical and psychological aspects of a person as well as some general information.  We have built a model that clusters consumers associated with health and wellness  Profiled each market segment, predicted health scores(1-7) using Python and SAS.
 
+Data Source:  I have signed a non-disclosure Agreement with SRG. So i am unable to provide the survey dataset.
+
 Project Requirements: I have used SAS and Python for this project.
 
 Project Results and Recomendations: There were many insights that we were able to obtain from this project. Some of them are 
@@ -20,4 +22,4 @@ Project Results and Recomendations: There were many insights that we were able t
 
 Project Contributors: Syamala Anisha Katta
 
-References: I have signed a non-disclosure Agreement with SRG. So i am unable to provide the survey dataset.
+References: N/A
